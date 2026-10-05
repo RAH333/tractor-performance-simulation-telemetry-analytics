@@ -1,0 +1,20 @@
+{
+  "model_name": "MRV-Concept-T100",
+  "engine": {
+    "rated_power_kw": 74.5,
+    "rated_speed_rpm": 2200,
+    "peak_torque_nm": 410,
+    "peak_torque_rpm": 1400
+  },
+  "transmission": {
+    "gear_ratios": [124.5, 95.2, 72.1, 55.4, 41.2, 30.5, 22.1, 15.8],
+    "mechanical_efficiency": 0.88,
+    "hydraulic_pump_loss_kw": 3.5
+  },
+  "chassis": {
+    "wheelbase_mm": 2450,
+    "static_rear_weight_fraction": 0.62,
+    "total_mass_kg": 4200,
+    "rear_tyre_radius_m": 0.82
+  }
+}
