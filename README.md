@@ -13,8 +13,8 @@ An engineering analysis toolkit designed for concept-level tractor architecture 
 
 ## Quick Start
 ```bash
-git clone
-cd
+git clone https://github.com/RAH333/tractor-performance-simulation-telemetry-analytics.git
+cd tractor-performance-simulation-telemetry-analytics
 pip install -r requirements.txt
 python src/main.py
 ```
