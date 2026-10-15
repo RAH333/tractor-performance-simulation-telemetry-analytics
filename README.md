@@ -1,3 +1,4 @@
+![Tractor Performance Simulation & Telemetry Analytics Framework](assets/TPSTA.jpg)
 # tractor-performance-simulation-telemetry-analytics
 To demonstrate physics-based drivetrain modeling, tractor architecture evaluation, and field telemetry data analysis.
 
@@ -12,6 +13,8 @@ An engineering analysis toolkit designed for concept-level tractor architecture 
 
 ## Quick Start
 ```bash
+git clone
+cd
 pip install -r requirements.txt
 python src/main.py
 ```
